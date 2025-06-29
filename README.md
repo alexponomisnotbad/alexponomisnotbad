@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexponomisnotbad
 - 👀 I’m interested in Robotics, Machine Learning
-- 🌱 I’m currently studying at ITMO
+- 🌱 I’m master student at ITMO
 - 💞️ I’m looking to collaborate in the development of mobile robots
 - 📫 How to reach me:
 - tg - @al_ponom
